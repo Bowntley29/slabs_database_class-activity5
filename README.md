@@ -4,8 +4,10 @@
 # 1. ER Components
 a) Entity: is a distinct real-world object (living or non-living) that can be easily identified and stored in a database.
 - Example: A book or a customer.
+
 b) Relationship: is the connection or association that links different entities together.
-- Example: A customer places an order, or an author writes a book.   
+- Example: A customer places an order, or an author writes a book.
+
 c) Attribute: are the specific properties or characteristics that describe an entity.  
 - Example: For the book entity the attributes would be things like book_id, title, and author_id or even price and genre.
 
